@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  height: 323px;
+}
+
+.product {
+  display: flex;
+  width: 50%;
+}
+
+.product_name {
+  background-color: brown;
+}
+
+.product_image {
+  background-color: khaki;
+}
